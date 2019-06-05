@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/strel.LAPTOP-83G56CEL/CLionProjects/potoki C++/main.cpp
+iostream
+-
+thread
+-
+chrono
+-
+

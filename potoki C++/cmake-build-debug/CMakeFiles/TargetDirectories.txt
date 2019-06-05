@@ -1,0 +1,3 @@
+C:/Users/strel.LAPTOP-83G56CEL/CLionProjects/potoki C++/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/strel.LAPTOP-83G56CEL/CLionProjects/potoki C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/strel.LAPTOP-83G56CEL/CLionProjects/potoki C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
